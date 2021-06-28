@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: woodyellis/gatsby-starter-delog
+  repo: laddershub/gatsby-starter-delog
 
 media_folder: static/assets
 public_folder: /assets
